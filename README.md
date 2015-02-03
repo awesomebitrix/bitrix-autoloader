@@ -25,3 +25,11 @@
     $autoloader->addAutoloadPath('/includes/my/classes/');
     
 Путь указывается от корня сайта.
+
+## Установка с помощью Composer
+
+Страница проекта на packagist: [https://packagist.org/packages/eugenezadorin/bitrix-autoloader](https://packagist.org/packages/eugenezadorin/bitrix-autoloader)
+
+Для быстрой установки достаточно вписать следующую зависимость в composer.json:
+
+	"require" : {"eugenezadorin/bitrix-autoloader": "dev-master"}
