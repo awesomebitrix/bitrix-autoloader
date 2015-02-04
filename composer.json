@@ -14,7 +14,8 @@
     },
     "autoload": {
         "psr-0": {
-            "Eugenezadorin\\Bitrix": "src/"
+            "Eugenezadorin\\Bitrix": ""
         }
-    }
+    },
+    "target-dir": "Eugenezadorin/Bitrix"
 }
